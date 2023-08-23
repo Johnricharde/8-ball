@@ -1,0 +1,25 @@
+body {
+    user-select: none;
+}
+
+#ball8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    border-radius: 50%;
+}
+#ball8-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid whitesmoke 5px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: whitesmoke;
+}
